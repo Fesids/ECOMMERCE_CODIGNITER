@@ -1,7 +1,7 @@
 # 📦 Sistema de Pedidos - Imagens da Interface
 
 > ⚠️ **Aviso importante:**  
-> O método `enviar_email_confirmacao` no controller de pedidos precisa ser preenchido com as informações necessárias antes da finalização do fluxo de pedidos. Certifique-se de implementar a lógica de envio de e-mails com os dados corretos do pedido e do cliente.
+> O método `enviar_email_confirmacao` no controller de pedidos precisa ser preenchido com as informações necessárias antes da finalização do fluxo de pedidos. Certifique-se de implementar a lógica de envio de e-mails com os dados corretos.
 
 ---
 
