@@ -533,7 +533,7 @@ $config['proxy_ips'] = '';
 
 
 $config['sess_driver'] = 'files';
-$config['sess_save_path'] = APPPATH . 'sessions'; // Add this line
+$config['sess_save_path'] = APPPATH . 'sessions'; 
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;
