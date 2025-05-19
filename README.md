@@ -5,7 +5,14 @@
 
 ---
 
+
+> ⚠️ **Docker run**  
+> No root do projeto execute 'docker-compose up --build' e acesse http://localhost:8080/products/index
+---
+
 ## 🖼️ Telas do Sistema
+
+
 
 ### 🛒 Carrinho com cupom aplicado
 ![Carrinho com cupom](assets/carrinho_cupom_aplicado.png)
