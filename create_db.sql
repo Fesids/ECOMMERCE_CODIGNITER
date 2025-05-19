@@ -1,3 +1,5 @@
+USE codeigniter;
+
 CREATE TABLE `pedidos` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `total` decimal(10,2) NOT NULL,
@@ -51,6 +53,7 @@ CREATE TABLE produtos (
     nome VARCHAR(255) NOT NULL,
     preco DECIMAL(10,2) NOT NULL,
     variacoes TEXT,
+    descricao varchar(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
